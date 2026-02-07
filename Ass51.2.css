@@ -1,0 +1,39 @@
+.bg-green{
+  background:green;
+}
+.border-dotted{
+  border:1vw dotted black;
+}
+.border-solid{
+  border:10px solid black;
+}
+.p-40px{
+  padding:40px;
+}
+.m-20px{
+  margin:20px;
+}
+.flex{
+  display:flex;
+}
+.align-center{
+  justify-content:center;
+}
+.align-top{
+  align-items: flex-start;
+}
+.h-70vh{
+  height:70vh;
+}
+.w-100vw{
+  width:100vw;
+}
+.border-box{
+  box-sizing: border-box;
+}
+.p-2vw{
+  padding:2vw;
+}
+.text-5vw{
+  font-size: 5vw;
+}
